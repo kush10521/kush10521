@@ -285,8 +285,7 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 </p>
 
 ---
-
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush10521&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
