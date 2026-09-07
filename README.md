@@ -287,7 +287,7 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-4grl3mi72-kush-singh1.vercel.app/graph?username=kush10521&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph-4grl3mi72-kush-singh1.vercel.app/graph?username=kush10521&theme=tokyo-night&hide_border=true&area=true&v=2" width="95%" alt="Kush Singh Contribution Activity"/>
 </p>
 
 ---
@@ -306,17 +306,6 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
   <img src="https://github-profile-trophy.vercel.app/?username=kush10521&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="95%"/>
 </p>
 
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-<a href="https://github.com/kush10521/Real-Estate_Intelligence_Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kush10521&repo=Real-Estate_Intelligence_Platform&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
-
----
 
 # 💬 Developer Quote
 
