@@ -303,9 +303,9 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kush10521&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy-rosy-ten.vercel.app/?username=kush10521&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="95%"/>
 </p>
-
+---
 
 # 💬 Developer Quote
 
