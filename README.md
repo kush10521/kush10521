@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hi, I'm Kush Singh</h1>
-
-<h3 align="center">
-B.Tech CSE @ MMMUT | AI/ML Enthusiast | Deep Learning | NLP | MLOps | Generative AI | Data Science
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1F3864&height=200&section=header&text=Kush%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%40%20MMMUT%20%7C%20AI%2FML%20%7C%20Deep%20Learning%20%7C%20NLP%20%7C%20Data+Science%20%7C%20Gen AI&descAlignY=58&descSize=18"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Science+%7C+Generative+AI;Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+NLP+%7C+MLOps;Currently+Learning+Transformers+%26+Generative+AI;Building+Real-World+AI%2FML+Systems" />
@@ -59,7 +57,7 @@ I enjoy building practical, data-driven applications and working across the comp
 </details>
 
 <details open>
-<summary><b>📊 Data preprocessing & Data Visualization</b></summary>
+<summary><b>📊 Data Preprocessing & Visualization</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -85,9 +83,12 @@ I enjoy building practical, data-driven applications and working across the comp
 <summary><b>🧠 Deep Learning</b></summary>
 <br>
 
-<img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-2E86C1?style=for-the-badge"/>
 
 </details>
 
@@ -104,7 +105,7 @@ I enjoy building practical, data-driven applications and working across the comp
 </details>
 
 <details open>
-<summary><b>⚙️ MLOps & ML Engineering</b></summary>
+<summary><b>⚙️ MLOps</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge"/>
@@ -147,8 +148,7 @@ I enjoy building practical, data-driven applications and working across the comp
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </details>
 
 # 🧠 Knowledge Areas
@@ -174,7 +174,6 @@ I enjoy building practical, data-driven applications and working across the comp
 <td>Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Data Preprocessing, Data Visualization, Feature Engineering, Model Evaluation</td>
 </tr>
 
-
 <tr>
 <td>📈 Mathematics</td>
 <td>Probability & Statistics for Machine Learning</td>
@@ -182,17 +181,17 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <tr>
 <td>🤖 Machine Learning</td>
-<td>Scikit-learn, linear regression, logistic regression, PCA, SVM, Random forest, Decision tree, Gradient Boosting, Xgboost, Catboost, LightGBM,T-sne</td>
+<td>Scikit-learn, Linear Regression, Logistic Regression, PCA, SVM, Random Forest, Decision Tree, Gradient Boosting, XGBoost, CatBoost, LightGBM, t-SNE</td>
 </tr>
 
 <tr>
 <td>🧠 Deep Learning</td>
-<td>ANN, RNN, CNN, LSTM, GRU ,Transfer learning , TensorFlow, keras</td>
+<td>ANN, RNN, CNN, LSTM, GRU, Transfer Learning, TensorFlow, Keras</td>
 </tr>
 
 <tr>
 <td>💬 NLP</td>
-<td>Text Preprocessing, Feature extraction like TF-IDF, BOW, Word2Vec, N-Gram</td>
+<td>Text Preprocessing, Feature Extraction (TF-IDF, BOW, Word2Vec, N-Gram)</td>
 </tr>
 
 <tr>
@@ -202,7 +201,7 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <tr>
 <td>☁️ AWS & Cloud</td>
-<td>AWS  Services like EC2, ECR, S3, IAM</td>
+<td>AWS Services like EC2, ECR, S3, IAM</td>
 </tr>
 
 <tr>
@@ -284,18 +283,11 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 </p>
 
 ---
+
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph-pi-green.vercel.app/graph?username=kush10521&theme=tokyo-night&hide_border=true&area=true&v=2" width="95%" alt="Kush Singh Contribution Activity"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kush10521/kush10521/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -305,21 +297,22 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 <p align="center">
   <img src="https://github-profile-trophy-rosy-ten.vercel.app/?username=kush10521&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="95%"/>
 </p>
+
 ---
 
 # 💬 Developer Quote
 
 <p align="center">
-<i>"The more you learn, the lesser it will take to learn even more"</i>
+<i>"The more you learn, the lesser it will take to learn even more."</i>
 <br><br>
 <strong>— Sushant Singh Rajput</strong>
 </p>
 
 ---
-
 # 🤝 Connect With Me
 
 <p align="center">
+
 <a href="mailto:kushsingh10521@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-kushsingh10521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -334,19 +327,5 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 </p>
 
 <p align="center">
-📧 <b>Email:</b> kushsingh10521@gmail.com
-<br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kush-singh-1b2788328">kush-singh-1b2788328</a>
-<br>
-🐙 <b>GitHub:</b> <a href="https://github.com/kush10521">kush10521</a>
-</p>
-
----
-
-<p align="center">
-
-## 💡 Build • Learn • Experiment • Deploy
-
-⭐ <b>Thanks for visiting my profile!</b>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:36BCF7&height=120&section=footer"/>
 </p>
