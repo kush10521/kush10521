@@ -9,10 +9,6 @@ B.Tech CSE @ MMMUT | AI/ML Enthusiast | Deep Learning | NLP | MLOps | Generative
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kush10521&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kush10521/kush10521/output/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kush10521/kush10521/output/dist/github-contribution-grid-snake.svg" />
@@ -110,33 +106,6 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <img src="https://img.shields.io/badge/Natural%20Language%20Processing-1F77B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Text%20Processing-16A085?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>🔄 Transformers — Currently Learning</b></summary>
-<br>
-
-<img src="https://img.shields.io/badge/Transformer%20Architecture-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformer%20Applications-6C5CE7?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>✨ Generative AI — Currently Learning</b></summary>
-<br>
-
-<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI%20Applications-E84393?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>🧠 Advanced NLP — Currently Learning</b></summary>
-<br>
-
-<img src="https://img.shields.io/badge/Advanced%20NLP-00A8FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Modern%20Architectures-5F27CD?style=for-the-badge"/>
 
 </details>
 
