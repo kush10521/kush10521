@@ -196,12 +196,6 @@ I enjoy building practical, data-driven applications and working across the comp
 </tr>
 
 <tr>
-<td>🔄 Transformers</td>
-<td><b>Currently Learning</b> — Transformer Architecture & Applications</td>
-</tr>
-
-
-<tr>
 <td>⚙️ MLOps</td>
 <td>Version Control, DVC Pipelines, MLflow, Model Registry, Docker, CI/CD, DagsHub, AWS Services, Deployment Strategies</td>
 </tr>
@@ -219,6 +213,11 @@ I enjoy building practical, data-driven applications and working across the comp
 <tr>
 <td>🛠️ Development</td>
 <td>Git, GitHub, Jupyter Notebook, Google Colab, VS Code, IntelliJ</td>
+</tr>
+
+<tr>
+<td>🔄 Transformers</td>
+<td><b>Currently Learning</b> — Transformer Architecture & Applications</td>
 </tr>
 
 </table>
@@ -288,7 +287,7 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush10521&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph-4grl3mi72-kush-singh1.vercel.app/graph?username=kush10521&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
