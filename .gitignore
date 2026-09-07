@@ -1,0 +1,42 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# ML / data artifacts
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.onnx
+models/
+data/
+logs/
+
+# Environment files
+.env
+.env.*
+
+# GitHub / local generated files
+*.log

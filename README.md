@@ -245,7 +245,7 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <tr>
 <td>☁️ AWS & Cloud</td>
-<td>AWS EC2, AWS ECR, AWS S3, AWS IAM</td>
+<td>AWS  EC2, AWS ECR, AWS S3, AWS IAM</td>
 </tr>
 
 <tr>
