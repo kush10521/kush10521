@@ -9,14 +9,6 @@ B.Tech CSE @ MMMUT | AI/ML Enthusiast | Deep Learning | NLP | MLOps | Generative
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kush10521/kush10521/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kush10521/kush10521/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kush10521/kush10521/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
   <a href="mailto:kushsingh10521@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -67,7 +59,7 @@ I enjoy building practical, data-driven applications and working across the comp
 </details>
 
 <details open>
-<summary><b>📊 Data Science & Data Visualization</b></summary>
+<summary><b>📊 Data preprocessing & Data Visualization</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -75,7 +67,6 @@ I enjoy building practical, data-driven applications and working across the comp
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Preprocessing-FF6F00?style=for-the-badge"/>
 
 </details>
 
@@ -104,8 +95,11 @@ I enjoy building practical, data-driven applications and working across the comp
 <summary><b>💬 NLP</b></summary>
 <br>
 
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-1F77B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Text%20Processing-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gensim-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-154F5C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TextBlob-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 </details>
 
@@ -177,22 +171,28 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <tr>
 <td>📊 Data Science</td>
-<td>Python, SQL, Data Preprocessing, Data Visualization, NumPy, Pandas, Matplotlib, Seaborn, Plotly</td>
+<td>Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Data Preprocessing, Data Visualization, Feature Engineering, Model Evaluation</td>
+</tr>
+
+
+<tr>
+<td>📈 Mathematics</td>
+<td>Probability & Statistics for Machine Learning</td>
 </tr>
 
 <tr>
 <td>🤖 Machine Learning</td>
-<td>Machine Learning Algorithms, Scikit-learn, Feature Engineering, Model Evaluation</td>
+<td>Scikit-learn, linear regression, logistic regression, PCA, SVM, Random forest, Decision tree, Gradient Boosting, Xgboost, Catboost, LightGBM,T-sne</td>
 </tr>
 
 <tr>
 <td>🧠 Deep Learning</td>
-<td>Neural Networks, Deep Learning, TensorFlow, keras</td>
+<td>ANN, RNN, CNN, LSTM, GRU ,Transfer learning , TensorFlow, keras</td>
 </tr>
 
 <tr>
 <td>💬 NLP</td>
-<td>Natural Language Processing, Text Processing</td>
+<td>Text Preprocessing, Feature extraction like TF-IDF, BOW, Word2Vec, N-Gram</td>
 </tr>
 
 <tr>
@@ -200,20 +200,6 @@ I enjoy building practical, data-driven applications and working across the comp
 <td><b>Currently Learning</b> — Transformer Architecture & Applications</td>
 </tr>
 
-<tr>
-<td>✨ Generative AI</td>
-<td><b>Currently Learning</b> — Generative AI Concepts & Applications</td>
-</tr>
-
-<tr>
-<td>🧠 Advanced NLP</td>
-<td><b>Currently Learning</b> — Advanced NLP Techniques & Modern Architectures</td>
-</tr>
-
-<tr>
-<td>📈 Mathematics</td>
-<td>Probability & Statistics for Machine Learning</td>
-</tr>
 
 <tr>
 <td>⚙️ MLOps</td>
@@ -222,7 +208,7 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <tr>
 <td>☁️ AWS & Cloud</td>
-<td>AWS  EC2, AWS ECR, AWS S3, AWS IAM</td>
+<td>AWS  Services like EC2, ECR, S3, IAM</td>
 </tr>
 
 <tr>
@@ -232,7 +218,7 @@ I enjoy building practical, data-driven applications and working across the comp
 
 <tr>
 <td>🛠️ Development</td>
-<td>Git, GitHub, Jupyter Notebook, Google Colab, VS Code, PyCharm</td>
+<td>Git, GitHub, Jupyter Notebook, Google Colab, VS Code, IntelliJ</td>
 </tr>
 
 </table>
