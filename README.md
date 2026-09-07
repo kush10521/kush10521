@@ -342,7 +342,7 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kush10521/kush10521/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/kush10521/kush10521/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -368,7 +368,7 @@ End-to-end ML platform for the **Gurgaon real estate market** — built from the
 # 💬 Developer Quote
 
 <p align="center">
-<i>"The more you learn, the lesser time it will take to learn even more"</i>
+<i>"The more you learn, the lesser it will take to learn even more"</i>
 <br><br>
 <strong>— Sushant Singh Rajput</strong>
 </p>
